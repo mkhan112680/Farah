@@ -1,2 +1,0 @@
-# Farah
-Created with CodeSandbox

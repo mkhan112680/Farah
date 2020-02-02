@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.width-100 {
+  width: 100%;
+  margin: 0 auto;
+}
+.error {
+  color: red;
+}
+.noerror {
+  color: black;
+}
